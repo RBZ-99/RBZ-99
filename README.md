@@ -6,7 +6,11 @@
  
  
 **Experience**:
-I am currently working on **Continual Learning** in **Computer Vision** at **Harvard University**. Previosuly, I have interned at **Massachusetts Institute of Technology (MIT)** in **Reinforcement Learning** for peronalized learning and habit building. My recent work at **CSIR-CEERI** on **anomaly detection using GANs** is under review at the BMVC conference 2021. I have also worked at **Tata Institute of Fundamental Research, Mumbai (TIFR)** on the **cake-cutting and fair resource** allocation problem.
+
+I am currently working on **Continual Learning** in **Computer Vision** at **Harvard University**. 
+Previosuly, I have interned at **Massachusetts Institute of Technology (MIT)** in **Reinforcement Learning** for peronalized learning and habit building. 
+My recent work at **CSIR-CEERI** on **anomaly detection using GANs** is under review at the BMVC conference 2021. 
+I have also worked at **Tata Institute of Fundamental Research, Mumbai (TIFR)** on the **cake-cutting and fair resource** allocation problem.
 
 
 **Others**:
