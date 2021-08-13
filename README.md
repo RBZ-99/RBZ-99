@@ -5,15 +5,14 @@
  I am actively looking for new grad opportunities across the world!
  
  
-**Experience**: 
+**Experience**:
 I am currently working on **Continual Learning** in **Computer Vision** at **Harvard University**. Previosuly, I have interned at **Massachusetts Institute of Technology (MIT)** in **Reinforcement Learning** for peronalized learning and habit building. My recent work at **CSIR-CEERI** on **anomaly detection using GANs** is under review at the BMVC conference 2021. I have also worked at **Tata Institute of Fundamental Research, Mumbai (TIFR)** on the **cake-cutting and fair resource** allocation problem.
 
 
-**Others**: 
+**Others**:
 I have been selected as a **Khorana Scholar** in 2020. I was recently selected for the program of CMMRS 2021- Saarbrücken(Germany) and also for ILDP+ start program at Hiroshima University.
 
-**Contact**: 
-
+**Contact**:
 [Linkedin](https://www.linkedin.com/in/rushikesh-zawar-a67063153/), [Gmail](rushikeshzawar10@gmail.com), [BITS_email](f20170977@pilani.bits-pilani.ac.in)
  
  
