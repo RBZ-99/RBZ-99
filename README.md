@@ -1,4 +1,13 @@
 ### Hi there 👋
+ **I am Rushikesh B. Zawar**
+ I am a student pursuing Computer Science and Biological Sciences at BITS Pilani, Pilani Campus, India, graduating in June 2022.
+ I am currently working on Continual Learning in Computer Vision at Harvard University.
+ 
+ I am actively looking for new grad opportunities across the world!
+ 
+** Contact**: Linkedin[https://www.linkedin.com/in/rushikesh-zawar-a67063153/], Gmail[rushikeshzawar10@gmail.com], BITS_email[f20170977@pilani.bits-pilani.ac.in]
+ 
+ 
 
 <!--
 **RBZ-99/RBZ-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
