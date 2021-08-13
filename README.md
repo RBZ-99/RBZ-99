@@ -5,7 +5,7 @@
  
  I am actively looking for new grad opportunities across the world!
  
-** Contact**: Linkedin[https://www.linkedin.com/in/rushikesh-zawar-a67063153/], Gmail[rushikeshzawar10@gmail.com], BITS_email[f20170977@pilani.bits-pilani.ac.in]
+** Contact**: [Linkedin](https://www.linkedin.com/in/rushikesh-zawar-a67063153/), [Gmail](rushikeshzawar10@gmail.com), [BITS_email](f20170977@pilani.bits-pilani.ac.in)
  
  
 
