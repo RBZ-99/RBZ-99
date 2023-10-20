@@ -4,7 +4,9 @@
  
 **I am actively looking for internship opportunities!** 
  
+
 **Experience**:
+
 
 I have worked on **Deepfake detection** from **GANs, Diffusion, Faceswap,etc** methods and developed a novel a diffusion based detector and also deployed some models used in production at a startup.
 
