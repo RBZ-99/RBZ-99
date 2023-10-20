@@ -2,11 +2,12 @@
  **I am Rushikesh B. Zawar**
  I am a student pursuing **Masters in Computer Vision** at **Carnegie Mellon University (CMU)** (2023-2024). I have previously completed Bachelor's in Computer Science and a Master's in Biological Sciences at BITS Pilani, Pilani Campus, India.
  
- I am actively looking for internship opportunities!
- 
+** I am actively looking for internship opportunities!
+** 
  
 **Experience**:
-I have also worked on **Deepfake detection** from **GANs, Diffusion, Faceswap,etc** methods and developed a novel a diffusion based detector and also deployed some models used in production at a startup.
+I have worked on **Deepfake detection** from **GANs, Diffusion, Faceswap,etc** methods and developed a novel a diffusion based detector and also deployed some models used in production at a startup.
+
 I also work on **Continual Learning** in **Computer Vision** at **Harvard University**. 
 
 I previously worked on **fraud detection** as an **Applied Scientist** at **Amazon**. 
