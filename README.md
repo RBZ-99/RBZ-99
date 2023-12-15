@@ -1,6 +1,6 @@
 ### Hi there 👋
  **I am Rushikesh B. Zawar**
- I am a student pursuing **Masters in Computer Vision** at **Carnegie Mellon University (CMU)** (2023-2024). I have previously completed Bachelor's in Computer Science and a Master's in Biological Sciences at **BITS Pilani**, Pilani Campus, India and partly at ** Harvard University**.
+ I am a student pursuing **Masters in Computer Vision** at **Carnegie Mellon University (CMU)** (2023-2024). I have previously completed Bachelor's in Computer Science and a Master's in Biological Sciences at **BITS Pilani**, Pilani Campus, India and partly at **Harvard University**.
  
 **I am actively looking for internship opportunities!** 
  
